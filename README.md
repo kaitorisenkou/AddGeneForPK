@@ -1,1 +1,2 @@
-add genes for PawnKindDef using DefModExtension
+A class libraly for Rimworld mod
+Add genes for PawnKindDef using DefModExtension
